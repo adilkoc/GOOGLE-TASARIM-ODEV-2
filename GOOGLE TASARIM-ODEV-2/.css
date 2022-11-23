@@ -1,0 +1,56 @@
+.container
+    {
+        margin: 10px 100px;
+        background-color: rgb(220, 220, 220);
+        text-align: center;
+        list-style: none;
+        position: relative;
+        padding: 0px 0px 1px 0px;
+        
+    }
+.box {
+  float: left;
+	width: 560px;
+	height: 100px;
+	margin: 4px;
+}
+#first {
+	background: aqua;
+ 
+}
+#second {
+	background: aqua;
+ 
+  
+}
+#third {
+background: red;
+ 
+ 
+}
+
+p,
+span {
+  /* 1px kalınlığında gri renkli düz bir kenarlık ekler */
+  border: solid 3px #ccc;
+  background-color: white; 
+  /* 5px iç boşuk ekler. */
+  padding: 5px;
+  width: 33%;
+  margin: auto;   
+}
+input.gonder{
+    color: #224059;
+    background-color: #b5c9e2;
+    border-top: 2px #cce3ff solid;
+    border-left: 2px #cce3ff solid;
+    border-bottom: 2px #31557f solid;
+    border-right: 2px #31557f solid;
+    font:bold 12px Arial, Helvetica, sans-serif;
+}
+.copyright
+{
+    text-align: center;
+    padding: 85px;
+    background-color: white;
+    font-size: 17px;}
